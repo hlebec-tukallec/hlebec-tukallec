@@ -5,6 +5,9 @@ I'm a second-year Computer Science student in ITMO University 😎
 Courses taken: Linear Algebra, Algorithms, Discrete Math and Math Calculus 🤗
 
 
+-- fond of pigzz 🐽🐷
+
+
 
 <!--
 **hlebec-tukallec/hlebec-tukallec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
