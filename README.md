@@ -2,7 +2,7 @@
 
 I'm a second-year Computer Science student in ITMO University 😎
 
-Courses taken: Linear Algebra, Algorithms, Discrete Math and Math Calculus 🤗
+Courses taken: Linear Algebra, Algorithms, Discrete Maths and Calculus 🤗
 
 
 - fond of pigzz 🐽🐷
