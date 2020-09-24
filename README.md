@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a second-year Computer Science student in ITMO University😎
+I'm a second-year Computer Science student in ITMO University 😎
 
-Courses taken: Linear Algebra, Algorithms, Discrete Math and Math Calculus🤗
+Courses taken: Linear Algebra, Algorithms, Discrete Math and Math Calculus 🤗
 
 
 
