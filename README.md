@@ -1,11 +1,4 @@
-### Hi there 👋
 
-I'm a second-year Computer Science student in ITMO University 😎
-
-Courses taken: Linear Algebra, Algorithms, Discrete Maths and Calculus, Programming🤗
-
-- currently studying Web
-- fond of pigzz 🐽🐷
 
 
 
